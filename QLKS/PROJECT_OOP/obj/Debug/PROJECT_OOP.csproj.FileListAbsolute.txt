@@ -1,0 +1,20 @@
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\bin\Debug\PROJECT_OOP.exe.config
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\bin\Debug\PROJECT_OOP.exe
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\bin\Debug\PROJECT_OOP.pdb
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.csprojAssemblyReference.cache
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.Form1.resources
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.Properties.Resources.resources
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.csproj.GenerateResource.cache
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.csproj.CoreCompileInputs.cache
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.exe
+C:\Users\NHUT\Desktop\PROJECT OOP\PROJECT_OOP\PROJECT_OOP\obj\Debug\PROJECT_OOP.pdb
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\bin\Debug\PROJECT_OOP.exe.config
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\bin\Debug\PROJECT_OOP.exe
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\bin\Debug\PROJECT_OOP.pdb
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.csprojAssemblyReference.cache
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.Form1.resources
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.Properties.Resources.resources
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.csproj.GenerateResource.cache
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.csproj.CoreCompileInputs.cache
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.exe
+C:\Users\NHUT\Desktop\DEMO\DEMOO\PROJECT_OOP\obj\Debug\PROJECT_OOP.pdb

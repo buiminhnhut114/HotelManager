@@ -47,7 +47,7 @@ Bạn có câu hỏi hoặc vấn đề với dự án? https://github.com/buimi
 
 ## Tác giả
 
-* **Bùi Minh Nhựt** - [phuctu1901](https://github.com/buiminhnhut114)
+* **Bùi Minh Nhựt** - (https://github.com/buiminhnhut114)
 
 
 ## Giấy phép
